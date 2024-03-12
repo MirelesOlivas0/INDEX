@@ -47,9 +47,9 @@
                                 <div class="dropdown-menu"
                                 aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item"
-                            href="perfil.html">Perfil</a><br>
+                            href="file:///C:/Users/gokuo/OneDrive/Escritorio/perfiil.html">Perfil</a><br>
                             <a class="dropdown-item"
-                            href="calculadora.html">Calculadora</a><br>
+                            href="file:///C:/Users/gokuo/OneDrive/Escritorio/Caalculadora.html">Calculadora</a><br>
                             <a class="dropdown-item"
                             href="tienda.html">Tienda parte 1</a>    
                             </div>                                
@@ -89,13 +89,13 @@
         </div>
         <div>
             <video autoplay muted preload loop>
-                <source src="presentacioon.hmtl.mp4" type="video/mp4">
+                <source src="presentaciooon.html.mp4" type="video/mp4">
             </video>
             <h1 class="titulo">Comiditas "El CHIMOLTRUFIO"</h1>           
         </div>  
     </div>
     <a href="tienda.html">
-        <img src="pocoyoo.jgp.jpg" alt="tienda" style="width: 500px;height: auto;display: block;margin-left: auto;margin-right: auto;">
+        <img src="pocoyo.jpg" alt="tienda" style="width: 500px;height: auto;display: block;margin-left: auto;margin-right: auto;">
     </a>
 </body>
 </html>
